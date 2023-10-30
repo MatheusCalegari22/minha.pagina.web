@@ -1,10 +1,12 @@
 body{
-    
+
     background: #808080;
 }
 
 
 p-{ text-align: center;
+    font-size: 50px;
+    color: #1aae35
 }
 
 
@@ -23,6 +25,8 @@ p{
     text-align: justify;
 
 }
+
+
 
 
 
